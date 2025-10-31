@@ -5,5 +5,6 @@
    * [Итоговый проект Python Advanced](https://github.com/seriy-pa/python_advanced_diploma)
 
 ## [3. Сертификат о прохождении курса Python фреймворк Django](images/Python_Framework_Django.jpeg)
+   * [Итоговый проект Python фреймворк Django](https://github.com/seriy-pa/python_django_diploma)
 
 ## [4. Сертификат о прохождении курса Python разработчик](images/Profession_%20Python_Developer.png)
