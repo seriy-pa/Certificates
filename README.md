@@ -12,4 +12,5 @@
    * Сертификат о прохождении курса Python фреймворк Django   [Перейти >>](images/Python_Framework_Django.md)
 
 ## 4. Профессия Python-разработчик
-   * Сертификат о прохождении курса Python-разработчик   [Перейти >>](images/Profession_%20Python_Developer.png)
+   * Сертификат о прохождении курса Python-разработчик   [Перейти >>](images/Profession_Python_Developer.md)
+
