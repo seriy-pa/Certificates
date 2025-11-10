@@ -1,4 +1,4 @@
-# Сертификаты Skillbox
+# Итоговые работы и Сертификаты Skillbox
 ## 1. Базовый курс Python ["Telegram Bot"](https://github.com/seriy-pa/python_basic_diploma)
    * Итоговый проект базового курса Python   [Просмотреть >>](https://github.com/seriy-pa/python_basic_diploma)
    * Сертификат о прохождении базового курса Python   [Просмотреть >>](images/python_basics.md)
